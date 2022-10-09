@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar {
+  background: #484b48;
+  padding: 20px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+}
+.nav_titulo{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+}
+.centrado{
+  text-align: center;
+}
+.foto_pikachu{
+  text-align: center;
+}
+.active {
+  color: red;
+  }
+.inactive {
+    color: white;
+    }
+.img_bola{
+  height: 50px;
+  width: 50px;
+}
+    
